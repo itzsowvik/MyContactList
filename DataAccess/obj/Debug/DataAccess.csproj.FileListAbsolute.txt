@@ -1,0 +1,9 @@
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Sowvik\source\repos\MyContactList\DataAccess\obj\Debug\DataAccess.pdb

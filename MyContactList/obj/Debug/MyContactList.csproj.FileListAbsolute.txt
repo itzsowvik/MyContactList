@@ -1,0 +1,14 @@
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\bin\Debug\MyContactList.exe.config
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\bin\Debug\MyContactList.exe
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\bin\Debug\MyContactList.pdb
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.csproj.AssemblyReference.cache
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.MyContactList.resources
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.Properties.Resources.resources
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.csproj.GenerateResource.cache
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.csproj.CoreCompileInputs.cache
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.exe
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.pdb
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\bin\Debug\DataAccess.dll
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\bin\Debug\DataAccess.pdb
+C:\Users\Sowvik\source\repos\MyContactList\MyContactList\obj\Debug\MyContactList.csproj.CopyComplete
